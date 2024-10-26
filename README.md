@@ -1,0 +1,2 @@
+# DEdu
+decentralized education
